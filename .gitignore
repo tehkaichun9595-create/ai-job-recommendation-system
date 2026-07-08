@@ -1,0 +1,48 @@
+venv/
+venv_stable/
+ai_job_venv_311/
+venv*/
+*venv*/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# User data & logs
+uploads/
+logs/
+server.log
+nohup.out
+users_data.json
+profiles.json
+notifications.json
+
+# Temporary / benchmark data
+benchmark_results*.json
+
+# Documents, Drafts, and Papers
+*.docx
+*.pdf
+*.pptx
+*.dotx
+~$*
+docs/
+paper_content.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+
+# Debug and Test Scripts
+test_*.py
+debug_*.py
+reproduce_issue.py
+AIjobrecommendation.py
+create_notebook.py
+rewrite_docx.py
+reorder_citations.py
+benchmark_*.py
+benchmark_*.json

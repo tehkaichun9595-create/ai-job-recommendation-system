@@ -1,0 +1,3312 @@
+[
+    {
+        "title": "Software Engineer",
+        "description": "Develop and maintain software applications using modern technologies. Collaborate with cross-functional teams to deliver high-quality products.",
+        "company": "Grab Malaysia",
+        "required_skills": "Python, Java, AWS, Microservices, SQL",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5702,
+        "salary_max": 9018
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Analyze large datasets to extract business insights. Build machine learning models for predictive analytics.",
+        "company": "Petronas Digital",
+        "required_skills": "Python, Machine Learning, SQL, TensorFlow, Statistics",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 7184,
+        "salary_max": 10121
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Manage cloud infrastructure and CI/CD pipelines. Ensure high availability of production systems.",
+        "company": "Axiata Digital Labs",
+        "required_skills": "Docker, Kubernetes, AWS, Jenkins, Linux",
+        "experience_required": 3,
+        "location": "Cyberjaya",
+        "salary_min": 6115,
+        "salary_max": 8942
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Build responsive web applications using modern JavaScript frameworks. Focus on user experience and performance.",
+        "company": "AirAsia Digital",
+        "required_skills": "React, JavaScript, TypeScript, CSS, HTML",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5209,
+        "salary_max": 9195
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop end-to-end web solutions. Work with both frontend and backend technologies.",
+        "company": "Maybank",
+        "required_skills": "Node.js, React, MongoDB, Express, AWS",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 6767,
+        "salary_max": 10114
+    },
+    {
+        "title": "Mobile App Developer",
+        "description": "Develop iOS and Android applications. Ensure smooth user experience across devices.",
+        "company": "Touch 'n Go",
+        "required_skills": "Flutter, Dart, iOS, Android, REST API",
+        "experience_required": 3,
+        "location": "Bangsar South",
+        "salary_min": 5561,
+        "salary_max": 8526
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "description": "Monitor security threats and implement protective measures. Conduct vulnerability assessments.",
+        "company": "CIMB Bank",
+        "required_skills": "Network Security, Penetration Testing, SIEM, Firewall, ISO 27001",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 6666,
+        "salary_max": 9795
+    },
+    {
+        "title": "Cloud Solutions Architect",
+        "description": "Design and implement scalable cloud architectures. Lead cloud migration projects.",
+        "company": "Microsoft Malaysia",
+        "required_skills": "Azure, AWS, Cloud Architecture, Terraform, Python",
+        "experience_required": 6,
+        "location": "Kuala Lumpur",
+        "salary_min": 9012,
+        "salary_max": 11605
+    },
+    {
+        "title": "AI/ML Engineer",
+        "description": "Build and deploy machine learning models. Develop AI-powered solutions for business problems.",
+        "company": "Intel Malaysia",
+        "required_skills": "Python, TensorFlow, PyTorch, Deep Learning, Computer Vision",
+        "experience_required": 4,
+        "location": "Penang",
+        "salary_min": 6564,
+        "salary_max": 10071
+    },
+    {
+        "title": "QA Engineer",
+        "description": "Develop test strategies and automated test suites. Ensure software quality before release.",
+        "company": "Bosch Malaysia",
+        "required_skills": "Selenium, Python, Test Automation, Agile, JIRA",
+        "experience_required": 3,
+        "location": "Penang",
+        "salary_min": 6053,
+        "salary_max": 9949
+    },
+    {
+        "title": "Accountant",
+        "description": "Manage financial records and prepare financial statements. Ensure compliance with accounting standards.",
+        "company": "KPMG Malaysia",
+        "required_skills": "Financial Reporting, Excel, SAP, IFRS, Taxation",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5622,
+        "salary_max": 8759
+    },
+    {
+        "title": "Financial Analyst",
+        "description": "Analyze financial data and provide investment recommendations. Prepare financial models and forecasts.",
+        "company": "RHB Bank",
+        "required_skills": "Financial Modeling, Excel, Bloomberg Terminal, Valuation, SQL",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 6743,
+        "salary_max": 9377
+    },
+    {
+        "title": "Audit Associate",
+        "description": "Conduct financial audits and prepare audit reports. Identify control weaknesses and provide recommendations.",
+        "company": "PwC Malaysia",
+        "required_skills": "Auditing, IFRS, Internal Controls, SAP, Excel",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5419,
+        "salary_max": 9384
+    },
+    {
+        "title": "Tax Consultant",
+        "description": "Provide tax planning and compliance services. Advise clients on tax optimization strategies.",
+        "company": "Deloitte Malaysia",
+        "required_skills": "Corporate Tax, GST, Transfer Pricing, Tax Compliance, Excel",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6260,
+        "salary_max": 8127
+    },
+    {
+        "title": "Investment Banker",
+        "description": "Execute M&A transactions and capital raising. Provide strategic advisory to corporate clients.",
+        "company": "Affin Hwang Investment Bank",
+        "required_skills": "M&A, Financial Modeling, Valuation, DCF, Excel",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 7768,
+        "salary_max": 10504
+    },
+    {
+        "title": "Mechanical Engineer",
+        "description": "Design and develop mechanical systems and components. Conduct stress analysis and testing.",
+        "company": "Proton",
+        "required_skills": "CAD, SolidWorks, CATIA, FEA, Manufacturing Processes",
+        "experience_required": 4,
+        "location": "Shah Alam",
+        "salary_min": 6922,
+        "salary_max": 9789
+    },
+    {
+        "title": "Electrical Engineer",
+        "description": "Design electrical systems and circuits. Ensure compliance with safety standards.",
+        "company": "Tenaga Nasional Berhad",
+        "required_skills": "Power Systems, AutoCAD, PLC, SCADA, Electrical Design",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5838,
+        "salary_max": 7217
+    },
+    {
+        "title": "Civil Engineer",
+        "description": "Plan and supervise construction projects. Ensure structural integrity and safety compliance.",
+        "company": "Gamuda",
+        "required_skills": "AutoCAD, Structural Analysis, Project Management, Construction Safety, SAP2000",
+        "experience_required": 5,
+        "location": "Petaling Jaya",
+        "salary_min": 8177,
+        "salary_max": 12141
+    },
+    {
+        "title": "Chemical Engineer",
+        "description": "Optimize chemical processes and ensure production efficiency. Maintain quality control standards.",
+        "company": "Petronas Chemicals",
+        "required_skills": "Process Engineering, HYSYS, Six Sigma, Quality Control, Safety Management",
+        "experience_required": 4,
+        "location": "Gebeng, Pahang",
+        "salary_min": 7223,
+        "salary_max": 8825
+    },
+    {
+        "title": "Manufacturing Engineer",
+        "description": "Improve manufacturing processes and reduce production costs. Implement lean manufacturing principles.",
+        "company": "Hartalega",
+        "required_skills": "Lean Manufacturing, Six Sigma, Process Improvement, AutoCAD, ERP",
+        "experience_required": 3,
+        "location": "Sepang",
+        "salary_min": 6034,
+        "salary_max": 7522
+    },
+    {
+        "title": "Registered Nurse",
+        "description": "Provide patient care and administer medications. Monitor patient conditions and coordinate with doctors.",
+        "company": "Sunway Medical Centre",
+        "required_skills": "Patient Care, Medical Records, IV Therapy, First Aid, CPR",
+        "experience_required": 2,
+        "location": "Petaling Jaya",
+        "salary_min": 5227,
+        "salary_max": 9211
+    },
+    {
+        "title": "Medical Doctor",
+        "description": "Diagnose and treat patients. Prescribe medications and provide medical consultations.",
+        "company": "KPJ Healthcare",
+        "required_skills": "Diagnosis, Patient Care, Medical Procedures, Clinical Skills, Emergency Medicine",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 7995,
+        "salary_max": 9450
+    },
+    {
+        "title": "Pharmacist",
+        "description": "Dispense medications and provide drug information. Ensure proper medication management.",
+        "company": "Aeon Wellness",
+        "required_skills": "Pharmacy Operations, Drug Dispensing, Patient Counseling, Inventory Management, Healthcare Regulations",
+        "experience_required": 2,
+        "location": "Johor Bahru",
+        "salary_min": 4513,
+        "salary_max": 8342
+    },
+    {
+        "title": "Medical Lab Technologist",
+        "description": "Perform diagnostic tests and analyze samples. Operate laboratory equipment and maintain quality standards.",
+        "company": "Pantai Hospital",
+        "required_skills": "Lab Testing, Blood Analysis, Quality Control, Medical Equipment, Sample Processing",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5257,
+        "salary_max": 6346
+    },
+    {
+        "title": "Physiotherapist",
+        "description": "Assess and treat patients with physical conditions. Develop rehabilitation programs.",
+        "company": "Prince Court Medical Centre",
+        "required_skills": "Rehabilitation, Manual Therapy, Exercise Prescription, Patient Assessment, Sports Medicine",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6265,
+        "salary_max": 9615
+    },
+    {
+        "title": "Marketing Manager",
+        "description": "Develop and execute marketing strategies. Manage brand campaigns and analyze market trends.",
+        "company": "Nestle Malaysia",
+        "required_skills": "Digital Marketing, Brand Management, Market Research, Google Analytics, Content Strategy",
+        "experience_required": 5,
+        "location": "Petaling Jaya",
+        "salary_min": 7509,
+        "salary_max": 10628
+    },
+    {
+        "title": "Digital Marketing Specialist",
+        "description": "Manage social media campaigns and SEO strategies. Analyze digital marketing performance.",
+        "company": "Shopee Malaysia",
+        "required_skills": "SEO, Google Ads, Social Media Marketing, Analytics, Content Marketing",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4713,
+        "salary_max": 7919
+    },
+    {
+        "title": "Sales Executive",
+        "description": "Generate leads and close sales deals. Build relationships with clients and meet sales targets.",
+        "company": "Samsung Malaysia",
+        "required_skills": "Sales, Negotiation, CRM, Customer Relations, Presentation Skills",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5451,
+        "salary_max": 7291
+    },
+    {
+        "title": "Business Development Manager",
+        "description": "Identify new business opportunities and partnerships. Drive revenue growth and market expansion.",
+        "company": "Lazada Malaysia",
+        "required_skills": "Business Strategy, Partnership Development, Market Analysis, Negotiation, Sales",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 8289,
+        "salary_max": 11862
+    },
+    {
+        "title": "Brand Manager",
+        "description": "Manage brand positioning and marketing initiatives. Ensure brand consistency across all channels.",
+        "company": "Unilever Malaysia",
+        "required_skills": "Brand Strategy, Marketing Communications, Consumer Insights, Product Launch, P&L Management",
+        "experience_required": 4,
+        "location": "Petaling Jaya",
+        "salary_min": 6667,
+        "salary_max": 9713
+    },
+    {
+        "title": "HR Manager",
+        "description": "Oversee recruitment and employee relations. Develop HR policies and training programs.",
+        "company": "Public Bank",
+        "required_skills": "Recruitment, Employee Relations, HR Policies, Training, HRIS",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 7899,
+        "salary_max": 10932
+    },
+    {
+        "title": "Talent Acquisition Specialist",
+        "description": "Source and recruit candidates for open positions. Manage the full recruitment cycle.",
+        "company": "Accenture Malaysia",
+        "required_skills": "Recruitment, LinkedIn Recruiter, Interviewing, ATS, Employer Branding",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5872,
+        "salary_max": 9355
+    },
+    {
+        "title": "Compensation & Benefits Analyst",
+        "description": "Design and administer compensation programs. Conduct salary benchmarking and benefits analysis.",
+        "company": "Petronas",
+        "required_skills": "Compensation Analysis, Benefits Administration, HRIS, Excel, Market Benchmarking",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5510,
+        "salary_max": 7927
+    },
+    {
+        "title": "Learning & Development Manager",
+        "description": "Design and deliver training programs. Assess training needs and measure program effectiveness.",
+        "company": "Telekom Malaysia",
+        "required_skills": "Training Design, LMS, Performance Management, Leadership Development, E-Learning",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 8124,
+        "salary_max": 10890
+    },
+    {
+        "title": "HR Business Partner",
+        "description": "Partner with business units on HR initiatives. Provide strategic HR consulting and support.",
+        "company": "Maxis",
+        "required_skills": "Strategic HR, Employee Relations, Change Management, HRIS, Business Partnering",
+        "experience_required": 6,
+        "location": "Kuala Lumpur",
+        "salary_min": 9323,
+        "salary_max": 12988
+    },
+    {
+        "title": "Operations Manager",
+        "description": "Oversee daily operations and ensure efficiency. Manage resources and optimize processes.",
+        "company": "DHL Malaysia",
+        "required_skills": "Operations Management, Process Improvement, Supply Chain, Team Leadership, KPI Management",
+        "experience_required": 5,
+        "location": "Shah Alam",
+        "salary_min": 8417,
+        "salary_max": 12233
+    },
+    {
+        "title": "Supply Chain Manager",
+        "description": "Manage end-to-end supply chain operations. Optimize logistics and inventory management.",
+        "company": "Digi Telecommunications",
+        "required_skills": "Supply Chain Management, Procurement, Logistics, SAP, Vendor Management",
+        "experience_required": 5,
+        "location": "Shah Alam",
+        "salary_min": 8313,
+        "salary_max": 11895
+    },
+    {
+        "title": "Logistics Coordinator",
+        "description": "Coordinate shipments and track deliveries. Manage warehouse operations and inventory.",
+        "company": "Kerry Logistics",
+        "required_skills": "Logistics, Warehouse Management, Inventory Control, ERP, Customs Documentation",
+        "experience_required": 2,
+        "location": "Port Klang",
+        "salary_min": 5355,
+        "salary_max": 7893
+    },
+    {
+        "title": "Procurement Specialist",
+        "description": "Source and negotiate with suppliers. Manage procurement processes and vendor relationships.",
+        "company": "Shell Malaysia",
+        "required_skills": "Procurement, Vendor Management, Negotiation, SAP, Cost Analysis",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6057,
+        "salary_max": 8531
+    },
+    {
+        "title": "Project Manager",
+        "description": "Lead project teams and manage project timelines. Ensure projects are delivered on time and budget.",
+        "company": "IJM Corporation",
+        "required_skills": "Project Management, PMP, MS Project, Risk Management, Stakeholder Management",
+        "experience_required": 5,
+        "location": "Petaling Jaya",
+        "salary_min": 8237,
+        "salary_max": 10237
+    },
+    {
+        "title": "Secondary School Teacher",
+        "description": "Teach subjects to secondary school students. Prepare lesson plans and assess student progress.",
+        "company": "Taylor's International School",
+        "required_skills": "Teaching, Curriculum Development, Classroom Management, Student Assessment, Communication",
+        "experience_required": 2,
+        "location": "Subang Jaya",
+        "salary_min": 5091,
+        "salary_max": 8976
+    },
+    {
+        "title": "University Lecturer",
+        "description": "Deliver lectures and conduct research. Supervise student projects and publish academic papers.",
+        "company": "Universiti Malaya",
+        "required_skills": "Research, Teaching, Academic Writing, PhD, Subject Matter Expertise",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5776,
+        "salary_max": 8561
+    },
+    {
+        "title": "Early Childhood Educator",
+        "description": "Educate and care for young children. Develop age-appropriate learning activities.",
+        "company": "Maple Bear Malaysia",
+        "required_skills": "Early Childhood Education, Curriculum Planning, Child Development, Classroom Management, First Aid",
+        "experience_required": 2,
+        "location": "Petaling Jaya",
+        "salary_min": 5473,
+        "salary_max": 8852
+    },
+    {
+        "title": "Training Coordinator",
+        "description": "Coordinate training programs and workshops. Manage training logistics and materials.",
+        "company": "HRDF",
+        "required_skills": "Training Administration, LMS, Event Coordination, Communication, MS Office",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4585,
+        "salary_max": 7109
+    },
+    {
+        "title": "Education Consultant",
+        "description": "Advise students on education pathways. Assist with university applications and career guidance.",
+        "company": "IDP Education",
+        "required_skills": "Education Counseling, University Admissions, Student Advising, Communication, Sales",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4512,
+        "salary_max": 6307
+    },
+    {
+        "title": "Lawyer",
+        "description": "Provide legal advice and represent clients. Draft legal documents and handle court proceedings.",
+        "company": "Zaid Ibrahim & Co",
+        "required_skills": "Legal Research, Litigation, Contract Law, Legal Writing, Negotiation",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 7117,
+        "salary_max": 9857
+    },
+    {
+        "title": "Legal Executive",
+        "description": "Handle legal documentation and corporate secretarial matters. Support lawyers in case preparation.",
+        "company": "Hong Leong Group",
+        "required_skills": "Corporate Law, Legal Documentation, Company Secretary, Contract Review, Compliance",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5237,
+        "salary_max": 7127
+    },
+    {
+        "title": "Compliance Officer",
+        "description": "Ensure regulatory compliance and develop compliance programs. Conduct internal audits.",
+        "company": "Standard Chartered Malaysia",
+        "required_skills": "Regulatory Compliance, AML, Risk Assessment, Internal Audit, Banking Regulations",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 6787,
+        "salary_max": 9078
+    },
+    {
+        "title": "Company Secretary",
+        "description": "Manage corporate governance matters. Ensure compliance with Companies Act and listing requirements.",
+        "company": "Sime Darby",
+        "required_skills": "Corporate Governance, Bursa Malaysia, Companies Act, Board Management, Compliance",
+        "experience_required": 5,
+        "location": "Petaling Jaya",
+        "salary_min": 7927,
+        "salary_max": 11813
+    },
+    {
+        "title": "Paralegal",
+        "description": "Assist lawyers with legal research and documentation. Manage case files and client communications.",
+        "company": "Lee Hishammuddin Allen & Gledhill",
+        "required_skills": "Legal Research, Document Preparation, Case Management, Legal Writing, Client Relations",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5013,
+        "salary_max": 6062
+    },
+    {
+        "title": "Hotel Manager",
+        "description": "Oversee hotel operations and ensure guest satisfaction. Manage staff and budgets.",
+        "company": "Shangri-La Hotel Kuala Lumpur",
+        "required_skills": "Hotel Operations, Guest Relations, Staff Management, Budgeting, Hospitality",
+        "experience_required": 6,
+        "location": "Kuala Lumpur",
+        "salary_min": 8698,
+        "salary_max": 9732
+    },
+    {
+        "title": "Restaurant Manager",
+        "description": "Manage restaurant operations and service quality. Handle inventory and staff scheduling.",
+        "company": "Secret Recipe",
+        "required_skills": "Restaurant Management, F&B Operations, Customer Service, Staff Management, POS Systems",
+        "experience_required": 4,
+        "location": "Various locations",
+        "salary_min": 6733,
+        "salary_max": 9391
+    },
+    {
+        "title": "Event Coordinator",
+        "description": "Plan and execute corporate events. Manage vendors and event logistics.",
+        "company": "Kuala Lumpur Convention Centre",
+        "required_skills": "Event Planning, Vendor Management, Budget Management, Project Coordination, Customer Service",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5055,
+        "salary_max": 6566
+    },
+    {
+        "title": "Tourism Officer",
+        "description": "Promote tourism destinations and develop travel packages. Handle tourist inquiries and services.",
+        "company": "Tourism Malaysia",
+        "required_skills": "Tourism Marketing, Customer Service, Travel Planning, Communication, Marketing",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4817,
+        "salary_max": 7069
+    },
+    {
+        "title": "Chef",
+        "description": "Prepare and cook dishes according to menu. Manage kitchen operations and food quality.",
+        "company": "Mandarin Oriental Kuala Lumpur",
+        "required_skills": "Culinary Arts, Menu Planning, Food Safety, Kitchen Management, Creativity",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 7676,
+        "salary_max": 11052
+    },
+    {
+        "title": "Graphic Designer",
+        "description": "Create visual content for marketing materials. Design graphics for print and digital media.",
+        "company": "Leo Burnett Malaysia",
+        "required_skills": "Adobe Creative Suite, Photoshop, Illustrator, Typography, Visual Design",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6032,
+        "salary_max": 7901
+    },
+    {
+        "title": "UI/UX Designer",
+        "description": "Design user interfaces and experiences. Conduct user research and create wireframes.",
+        "company": "Fave",
+        "required_skills": "Figma, Sketch, User Research, Wireframing, Prototyping",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6450,
+        "salary_max": 7513
+    },
+    {
+        "title": "Video Producer",
+        "description": "Produce video content for marketing and social media. Manage video production from concept to delivery.",
+        "company": "Astro",
+        "required_skills": "Video Production, Premiere Pro, After Effects, Storyboarding, Content Strategy",
+        "experience_required": 3,
+        "location": "Bukit Jalil",
+        "salary_min": 5798,
+        "salary_max": 8136
+    },
+    {
+        "title": "Content Writer",
+        "description": "Create engaging content for websites and marketing. Write blogs, articles, and social media posts.",
+        "company": "iMoney",
+        "required_skills": "Content Writing, SEO, Copywriting, Social Media, Research",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4905,
+        "salary_max": 7103
+    },
+    {
+        "title": "Art Director",
+        "description": "Lead creative direction for campaigns. Manage design teams and ensure brand consistency.",
+        "company": "Ogilvy Malaysia",
+        "required_skills": "Creative Direction, Brand Strategy, Team Leadership, Adobe Creative Suite, Campaign Development",
+        "experience_required": 6,
+        "location": "Kuala Lumpur",
+        "salary_min": 9031,
+        "salary_max": 11374
+    },
+    {
+        "title": "Insurance Agent",
+        "description": "Sell insurance products and provide client consultations. Meet sales targets and maintain client relationships.",
+        "company": "AIA Malaysia",
+        "required_skills": "Insurance Sales, Financial Planning, Client Relations, Negotiation, Product Knowledge",
+        "experience_required": 1,
+        "location": "Kuala Lumpur",
+        "salary_min": 4408,
+        "salary_max": 7154
+    },
+    {
+        "title": "Claims Adjuster",
+        "description": "Investigate and process insurance claims. Assess damages and determine claim settlements.",
+        "company": "Allianz Malaysia",
+        "required_skills": "Claims Processing, Investigation, Negotiation, Documentation, Customer Service",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5083,
+        "salary_max": 8864
+    },
+    {
+        "title": "Underwriter",
+        "description": "Assess insurance applications and determine coverage. Analyze risks and set premiums.",
+        "company": "Prudential Malaysia",
+        "required_skills": "Risk Assessment, Underwriting, Insurance Knowledge, Analytical Skills, Attention to Detail",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6443,
+        "salary_max": 8933
+    },
+    {
+        "title": "Actuarial Analyst",
+        "description": "Analyze statistical data for insurance pricing. Model risk scenarios and prepare reports.",
+        "company": "Great Eastern Life",
+        "required_skills": "Actuarial Science, Statistics, Excel, R Programming, Risk Modeling",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5629,
+        "salary_max": 7652
+    },
+    {
+        "title": "Financial Planner",
+        "description": "Provide comprehensive financial planning advice. Help clients achieve financial goals.",
+        "company": "AmBank",
+        "required_skills": "Financial Planning, Investment Advisory, CFP, Retirement Planning, Tax Planning",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6002,
+        "salary_max": 9415
+    },
+    {
+        "title": "Property Agent",
+        "description": "Facilitate property sales and rentals. Market properties and negotiate deals with clients.",
+        "company": "PropNex Realty",
+        "required_skills": "Real Estate, Sales, Negotiation, Property Marketing, Client Relations",
+        "experience_required": 1,
+        "location": "Kuala Lumpur",
+        "salary_min": 3609,
+        "salary_max": 4970
+    },
+    {
+        "title": "Property Valuer",
+        "description": "Conduct property valuations for sales, mortgages, and insurance purposes.",
+        "company": "CH Williams Talhar & Wong",
+        "required_skills": "Property Valuation, Market Analysis, Report Writing, Real Estate Knowledge, Surveying",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6081,
+        "salary_max": 9426
+    },
+    {
+        "title": "Building Manager",
+        "description": "Manage building operations and maintenance. Handle tenant relations and building systems.",
+        "company": "Buildings & Constructions Sdn Bhd",
+        "required_skills": "Facilities Management, Building Systems, Tenant Relations, Maintenance Planning, Budgeting",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 6873,
+        "salary_max": 8444
+    },
+    {
+        "title": "Interior Designer",
+        "description": "Design interior spaces for residential and commercial projects. Create design concepts and specifications.",
+        "company": "IQI Global",
+        "required_skills": "Interior Design, AutoCAD, SketchUp, Space Planning, 3D Visualization",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6317,
+        "salary_max": 8197
+    },
+    {
+        "title": "Quantity Surveyor",
+        "description": "Prepare cost estimates and manage project budgets. Handle contract administration.",
+        "company": "Sunway Construction",
+        "required_skills": "Cost Estimation, Contract Management, BuildSmart, Project Cost Control, BOQ Preparation",
+        "experience_required": 4,
+        "location": "Petaling Jaya",
+        "salary_min": 6690,
+        "salary_max": 10513
+    },
+    {
+        "title": "Research Scientist",
+        "description": "Conduct scientific research and experiments. Publish findings and contribute to knowledge advancement.",
+        "company": "Malaysian Palm Oil Board",
+        "required_skills": "Research Methodology, Data Analysis, Scientific Writing, Laboratory Skills, R&D",
+        "experience_required": 4,
+        "location": "Kajang",
+        "salary_min": 7427,
+        "salary_max": 8538
+    },
+    {
+        "title": "Environmental Scientist",
+        "description": "Assess environmental impacts and develop sustainability initiatives. Conduct environmental monitoring.",
+        "company": "DOE Malaysia",
+        "required_skills": "Environmental Assessment, EIA, Sustainability, Data Analysis, Regulatory Compliance",
+        "experience_required": 3,
+        "location": "Putrajaya",
+        "salary_min": 6009,
+        "salary_max": 7404
+    },
+    {
+        "title": "Biotechnologist",
+        "description": "Develop biotechnology products and processes. Conduct research in life sciences.",
+        "company": "Malaysian Bioeconomy Development Corporation",
+        "required_skills": "Biotechnology, Molecular Biology, Lab Techniques, Research, Quality Control",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6249,
+        "salary_max": 7994
+    },
+    {
+        "title": "Agricultural Officer",
+        "description": "Provide technical advice to farmers. Promote modern agricultural practices.",
+        "company": "Sime Darby Plantation",
+        "required_skills": "Agriculture, Agronomy, Crop Management, Farm Operations, Technical Extension",
+        "experience_required": 2,
+        "location": "Carey Island",
+        "salary_min": 5305,
+        "salary_max": 7512
+    },
+    {
+        "title": "Food Technologist",
+        "description": "Develop food products and ensure quality standards. Conduct food safety testing.",
+        "company": "Fraser & Neave Holdings",
+        "required_skills": "Food Science, Product Development, Quality Control, HACCP, Food Safety",
+        "experience_required": 3,
+        "location": "Shah Alam",
+        "salary_min": 6156,
+        "salary_max": 8648
+    },
+    {
+        "title": "Pilot",
+        "description": "Operate aircraft and ensure passenger safety. Maintain flight logs and comply with regulations.",
+        "company": "Malaysia Airlines",
+        "required_skills": "Aviation, Flight Operations, ATPL License, Navigation, Aircraft Systems",
+        "experience_required": 5,
+        "location": "KLIA, Sepang",
+        "salary_min": 7770,
+        "salary_max": 9785
+    },
+    {
+        "title": "Aircraft Maintenance Engineer",
+        "description": "Inspect and maintain aircraft. Ensure airworthiness and compliance with safety standards.",
+        "company": "AirAsia",
+        "required_skills": "Aircraft Maintenance, EASA License, Troubleshooting, Technical Documentation, Safety Procedures",
+        "experience_required": 4,
+        "location": "KLIA2, Sepang",
+        "salary_min": 7326,
+        "salary_max": 8788
+    },
+    {
+        "title": "Ship Captain",
+        "description": "Command vessel operations and ensure maritime safety. Manage crew and navigation.",
+        "company": "MISC Berhad",
+        "required_skills": "Maritime Operations, Navigation, Ship Management, COC License, Safety Management",
+        "experience_required": 10,
+        "location": "Port Klang",
+        "salary_min": 12896,
+        "salary_max": 16342
+    },
+    {
+        "title": "Marine Engineer",
+        "description": "Maintain ship engines and mechanical systems. Ensure operational efficiency of vessels.",
+        "company": "Bumi Armada",
+        "required_skills": "Marine Engineering, Ship Systems, Maintenance, Technical Troubleshooting, COC",
+        "experience_required": 5,
+        "location": "Labuan",
+        "salary_min": 7743,
+        "salary_max": 11255
+    },
+    {
+        "title": "Logistics Executive",
+        "description": "Manage freight forwarding and customs clearance. Coordinate shipments and documentation.",
+        "company": "Pos Malaysia",
+        "required_skills": "Freight Forwarding, Customs Documentation, SAP, Logistics Coordination, Import/Export",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5286,
+        "salary_max": 7805
+    },
+    {
+        "title": "Bank Teller",
+        "description": "Process banking transactions and assist customers. Handle deposits, withdrawals, and inquiries.",
+        "company": "Bank Islam",
+        "required_skills": "Banking Operations, Customer Service, Cash Handling, Attention to Detail, Basic Accounting",
+        "experience_required": 1,
+        "location": "Various locations",
+        "salary_min": 4283,
+        "salary_max": 7526
+    },
+    {
+        "title": "Relationship Manager",
+        "description": "Manage high-net-worth client portfolios. Provide personalized banking solutions.",
+        "company": "UOB Malaysia",
+        "required_skills": "Wealth Management, Client Relations, Sales, Investment Products, Portfolio Management",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 7415,
+        "salary_max": 9101
+    },
+    {
+        "title": "Credit Analyst",
+        "description": "Evaluate creditworthiness of loan applicants. Prepare credit reports and recommendations.",
+        "company": "Alliance Bank",
+        "required_skills": "Credit Analysis, Financial Statement Analysis, Risk Assessment, Excel, Loan Processing",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6310,
+        "salary_max": 9514
+    },
+    {
+        "title": "Risk Analyst",
+        "description": "Identify and assess business risks. Develop risk mitigation strategies.",
+        "company": "Bank Negara Malaysia",
+        "required_skills": "Risk Management, Risk Modeling, Regulatory Compliance, Data Analysis, Basel Framework",
+        "experience_required": 4,
+        "location": "Kuala Lumpur",
+        "salary_min": 7411,
+        "salary_max": 9391
+    },
+    {
+        "title": "Treasury Analyst",
+        "description": "Manage cash flow and liquidity. Handle foreign exchange and investment activities.",
+        "company": "OCBC Malaysia",
+        "required_skills": "Treasury Operations, FX Trading, Cash Management, Financial Markets, Excel",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5608,
+        "salary_max": 7225
+    },
+    {
+        "title": "Retail Store Manager",
+        "description": "Manage retail store operations and sales team. Achieve sales targets and ensure customer satisfaction.",
+        "company": "Padini",
+        "required_skills": "Retail Management, Sales, Team Leadership, Inventory Management, Customer Service",
+        "experience_required": 4,
+        "location": "Mid Valley, Kuala Lumpur",
+        "salary_min": 7451,
+        "salary_max": 10214
+    },
+    {
+        "title": "E-commerce Executive",
+        "description": "Manage online store operations and product listings. Optimize e-commerce performance.",
+        "company": "Zalora Malaysia",
+        "required_skills": "E-commerce, Marketplace Management, Product Listing, Analytics, Digital Marketing",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 5181,
+        "salary_max": 9127
+    },
+    {
+        "title": "Merchandiser",
+        "description": "Plan and manage product assortments. Analyze sales trends and optimize inventory.",
+        "company": "Parkson",
+        "required_skills": "Merchandising, Inventory Planning, Market Analysis, Vendor Relations, Excel",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4561,
+        "salary_max": 6866
+    },
+    {
+        "title": "Customer Service Representative",
+        "description": "Handle customer inquiries and complaints. Provide product information and support.",
+        "company": "Telekom Malaysia",
+        "required_skills": "Customer Service, Communication, Problem Solving, CRM, Patience",
+        "experience_required": 1,
+        "location": "Kuala Lumpur",
+        "salary_min": 3620,
+        "salary_max": 5378
+    },
+    {
+        "title": "Call Centre Agent",
+        "description": "Handle inbound and outbound calls. Resolve customer issues and maintain service quality.",
+        "company": "CIMB Bank",
+        "required_skills": "Call Centre Operations, Communication, Customer Service, Multitasking, Computer Skills",
+        "experience_required": 1,
+        "location": "Cyberjaya",
+        "salary_min": 4233,
+        "salary_max": 7084
+    },
+    {
+        "title": "Architect",
+        "description": "Design buildings and structures. Prepare architectural drawings and supervise construction.",
+        "company": "GDP Architects",
+        "required_skills": "Architectural Design, AutoCAD, Revit, BIM, Project Management",
+        "experience_required": 5,
+        "location": "Kuala Lumpur",
+        "salary_min": 8348,
+        "salary_max": 11725
+    },
+    {
+        "title": "Urban Planner",
+        "description": "Develop urban development plans. Assess land use and infrastructure needs.",
+        "company": "Jabatan Perancangan Bandar",
+        "required_skills": "Urban Planning, GIS, Land Use Planning, Policy Development, Stakeholder Engagement",
+        "experience_required": 4,
+        "location": "Putrajaya",
+        "salary_min": 7114,
+        "salary_max": 8447
+    },
+    {
+        "title": "Construction Project Manager",
+        "description": "Manage construction projects from initiation to completion. Ensure quality, budget, and timeline adherence.",
+        "company": "WCT Holdings",
+        "required_skills": "Construction Management, Project Planning, Contract Administration, Safety Management, MS Project",
+        "experience_required": 6,
+        "location": "Petaling Jaya",
+        "salary_min": 9479,
+        "salary_max": 11418
+    },
+    {
+        "title": "Site Supervisor",
+        "description": "Supervise construction site activities. Ensure work quality and safety compliance.",
+        "company": "SP Setia",
+        "required_skills": "Site Supervision, Construction Safety, Quality Control, Team Coordination, Technical Knowledge",
+        "experience_required": 3,
+        "location": "Setia Alam",
+        "salary_min": 5696,
+        "salary_max": 7666
+    },
+    {
+        "title": "Landscape Architect",
+        "description": "Design outdoor spaces and landscapes. Integrate environmental considerations in designs.",
+        "company": "Veritas Design Group",
+        "required_skills": "Landscape Design, AutoCAD, Sustainability, Plant Knowledge, 3D Visualization",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 6313,
+        "salary_max": 7952
+    },
+    {
+        "title": "Journalist",
+        "description": "Research and write news stories. Interview sources and report on current events.",
+        "company": "The Star Media Group",
+        "required_skills": "Journalism, Writing, Research, Interviewing, Current Affairs",
+        "experience_required": 2,
+        "location": "Petaling Jaya",
+        "salary_min": 4838,
+        "salary_max": 7023
+    },
+    {
+        "title": "News Anchor",
+        "description": "Present news broadcasts on television. Prepare scripts and interview guests.",
+        "company": "RTM",
+        "required_skills": "Broadcasting, Public Speaking, News Presentation, Script Writing, Communication",
+        "experience_required": 4,
+        "location": "Angkasapuri, Kuala Lumpur",
+        "salary_min": 7027,
+        "salary_max": 10405
+    },
+    {
+        "title": "Social Media Manager",
+        "description": "Manage social media channels and content strategy. Engage with followers and analyze performance.",
+        "company": "Naga DDB Tribal",
+        "required_skills": "Social Media Marketing, Content Creation, Community Management, Analytics, Copywriting",
+        "experience_required": 3,
+        "location": "Kuala Lumpur",
+        "salary_min": 5888,
+        "salary_max": 7853
+    },
+    {
+        "title": "Public Relations Executive",
+        "description": "Manage media relations and corporate communications. Handle press releases and events.",
+        "company": "Burson",
+        "required_skills": "PR, Media Relations, Press Release Writing, Event Management, Crisis Communication",
+        "experience_required": 2,
+        "location": "Kuala Lumpur",
+        "salary_min": 4681,
+        "salary_max": 7288
+    },
+    {
+        "title": "Photographer",
+        "description": "Capture images for commercial and editorial use. Edit photos and manage photography projects.",
+        "company": "Photobook Malaysia",
+        "required_skills": "Photography, Adobe Lightroom, Photo Editing, Lighting, Creative Vision",
+        "experience_required": 2,
+        "location": "Petaling Jaya",
+        "salary_min": 4875,
+        "salary_max": 8853
+    },
+    {
+        "title": "Software Developer",
+        "description": "Develop and maintain custom software solutions for local businesses.",
+        "company": "Melaka Tech Solutions",
+        "required_skills": "Python, JavaScript, HTML, CSS",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 4730,
+        "salary_max": 7780
+    },
+    {
+        "title": "Network Engineer",
+        "description": "Manage and secure enterprise networks and infrastructure.",
+        "company": "Borneo IT Services",
+        "required_skills": "Networking, Cisco, CCNA, Cybersecurity",
+        "experience_required": 3,
+        "location": "Kuching, Sarawak",
+        "salary_min": 6146,
+        "salary_max": 7288
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Analyze operational data to improve supply chain efficiency in East Malaysia.",
+        "company": "Sabah Logistics",
+        "required_skills": "SQL, Excel, Data Analysis, PowerBI",
+        "experience_required": 1,
+        "location": "Kota Kinabalu, Sabah",
+        "salary_min": 3640,
+        "salary_max": 5770
+    },
+    {
+        "title": "IT Support Specialist",
+        "description": "Provide technical support for hardware and software issues across multiple branches.",
+        "company": "Kedah Retail Group",
+        "required_skills": "IT Support, Windows Administration, Troubleshooting",
+        "experience_required": 1,
+        "location": "Alor Setar, Kedah",
+        "salary_min": 4000,
+        "salary_max": 5830
+    },
+    {
+        "title": "Web Developer",
+        "description": "Design and build responsive websites for tourism and hospitality clients.",
+        "company": "Heritage Web Design",
+        "required_skills": "WordPress, PHP, React, UI/UX",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 5003,
+        "salary_max": 6719
+    },
+    {
+        "title": "System Administrator",
+        "description": "Maintain Linux servers and manage database backups for government agencies.",
+        "company": "Sarawak Govt IT Dept",
+        "required_skills": "Linux, Bash, Database Administration",
+        "experience_required": 4,
+        "location": "Kuching, Sarawak",
+        "salary_min": 7028,
+        "salary_max": 8871
+    },
+    {
+        "title": "Digital Marketing Executive",
+        "description": "Run social media campaigns to promote eco-tourism packages.",
+        "company": "Sabah Eco Tours",
+        "required_skills": "Social Media Marketing, SEO, Content Creation",
+        "experience_required": 2,
+        "location": "Sandakan, Sabah",
+        "salary_min": 5258,
+        "salary_max": 8078
+    },
+    {
+        "title": "Full Stack Engineer",
+        "description": "Build modern e-commerce platforms for local SME clients.",
+        "company": "East Coast Tech",
+        "required_skills": "Node.js, React, MongoDB",
+        "experience_required": 3,
+        "location": "Kuala Terengganu, Terengganu",
+        "salary_min": 5814,
+        "salary_max": 8029
+    },
+    {
+        "title": "Database Administrator",
+        "description": "Ensure high availability and performance of financial databases.",
+        "company": "Kelantan Islamic Bank",
+        "required_skills": "SQL Server, Oracle, Database Optimization",
+        "experience_required": 5,
+        "location": "Kota Bharu, Kelantan",
+        "salary_min": 8030,
+        "salary_max": 11074
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Design cloud migration strategies for manufacturing plants.",
+        "company": "Northern Tech Hub",
+        "required_skills": "AWS, Azure, Cloud Computing",
+        "experience_required": 5,
+        "location": "Kangar, Perlis",
+        "salary_min": 8296,
+        "salary_max": 11279
+    },
+    {
+        "title": "Mobile App Developer",
+        "description": "Develop mobile applications for public transport tracking.",
+        "company": "Melaka Transit",
+        "required_skills": "Flutter, React Native, Mobile Development",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 4665,
+        "salary_max": 6873
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "description": "Develop predictive models for agriculture and crop yield optimization.",
+        "company": "AgriTech Sarawak",
+        "required_skills": "Python, Machine Learning, Data Science",
+        "experience_required": 3,
+        "location": "Miri, Sarawak",
+        "salary_min": 6425,
+        "salary_max": 8436
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "description": "Monitor and respond to security threats in regional networks.",
+        "company": "Sabah Cyber Defense",
+        "required_skills": "Cybersecurity, SIEM, Penetration Testing",
+        "experience_required": 3,
+        "location": "Kota Kinabalu, Sabah",
+        "salary_min": 6014,
+        "salary_max": 7587
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Create engaging user interfaces for educational software.",
+        "company": "Kedah EdTech",
+        "required_skills": "Vue.js, HTML, CSS, JavaScript",
+        "experience_required": 2,
+        "location": "Sungai Petani, Kedah",
+        "salary_min": 4981,
+        "salary_max": 7138
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Develop robust APIs for logistics and tracking systems.",
+        "company": "Terengganu Port Logistics",
+        "required_skills": "Java, Spring Boot, REST API",
+        "experience_required": 3,
+        "location": "Kemaman, Terengganu",
+        "salary_min": 6458,
+        "salary_max": 9041
+    },
+    {
+        "title": "Registered Nurse",
+        "description": "Provide compassionate care and administer treatments to patients in the critical care unit.",
+        "company": "Melaka General Hospital",
+        "required_skills": "Nursing, Patient Care, Critical Care, First Aid",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 5351,
+        "salary_max": 6854
+    },
+    {
+        "title": "Financial Advisor",
+        "description": "Assist clients with wealth management, retirement planning, and investment strategies.",
+        "company": "Sarawak Wealth Management",
+        "required_skills": "Finance, Wealth Management, Investment, Communication",
+        "experience_required": 3,
+        "location": "Kuching, Sarawak",
+        "salary_min": 5655,
+        "salary_max": 8821
+    },
+    {
+        "title": "Logistics Coordinator",
+        "description": "Manage shipping and receiving operations, ensuring timely delivery of goods.",
+        "company": "Sabah Port Authority",
+        "required_skills": "Logistics, Supply Chain, Coordination, MS Excel",
+        "experience_required": 2,
+        "location": "Kota Kinabalu, Sabah",
+        "salary_min": 4543,
+        "salary_max": 6462
+    },
+    {
+        "title": "Civil Engineer",
+        "description": "Supervise local infrastructure projects including road expansion and bridge maintenance.",
+        "company": "Kedah Construction Group",
+        "required_skills": "AutoCAD, Civil Engineering, Project Management",
+        "experience_required": 4,
+        "location": "Alor Setar, Kedah",
+        "salary_min": 7432,
+        "salary_max": 10461
+    },
+    {
+        "title": "Hotel Operations Manager",
+        "description": "Oversee daily hotel operations to guarantee an excellent experience for tourists.",
+        "company": "Langkawi Resort Retreat",
+        "required_skills": "Hospitality, Operations Management, Customer Service",
+        "experience_required": 5,
+        "location": "Langkawi, Kedah",
+        "salary_min": 8457,
+        "salary_max": 11599
+    },
+    {
+        "title": "Retail Branch Manager",
+        "description": "Lead retail sales teams, manage inventory, and drive store profitability.",
+        "company": "East Coast Retailers",
+        "required_skills": "Retail Management, Sales, Leadership",
+        "experience_required": 3,
+        "location": "Kuala Terengganu, Terengganu",
+        "salary_min": 6078,
+        "salary_max": 8957
+    },
+    {
+        "title": "Medical Officer",
+        "description": "Examine, diagnose, and treat patients in a rural clinic setting.",
+        "company": "Kelantan Rural Health",
+        "required_skills": "Medical Diagnosis, Healthcare, Patient Care",
+        "experience_required": 1,
+        "location": "Kota Bharu, Kelantan",
+        "salary_min": 4446,
+        "salary_max": 7883
+    },
+    {
+        "title": "Accountant",
+        "description": "Handle tax filings, corporate accounts, and monthly financial reporting.",
+        "company": "Perlis Financial Services",
+        "required_skills": "Accounting, Tax, ACCA, Excel",
+        "experience_required": 2,
+        "location": "Kangar, Perlis",
+        "salary_min": 5377,
+        "salary_max": 9018
+    },
+    {
+        "title": "Mechanical Engineer",
+        "description": "Maintain and optimize manufacturing equipment for the timber industry.",
+        "company": "Sarawak Timber Processing",
+        "required_skills": "Mechanical Engineering, Maintenance, CAD",
+        "experience_required": 4,
+        "location": "Sibu, Sarawak",
+        "salary_min": 7055,
+        "salary_max": 9869
+    },
+    {
+        "title": "Tour Guide",
+        "description": "Lead eco-tours and provide historical insights to international tourists.",
+        "company": "Melaka Heritage Tours",
+        "required_skills": "Tourism, Communication, History, Multilingual",
+        "experience_required": 1,
+        "location": "Melaka",
+        "salary_min": 3642,
+        "salary_max": 6619
+    },
+    {
+        "title": "Marine Biologist",
+        "description": "Conduct research on coral reef conservation and marine ecosystems.",
+        "company": "Sabah Marine Conservation",
+        "required_skills": "Marine Biology, Research, Diving, Data Collection",
+        "experience_required": 3,
+        "location": "Semporna, Sabah",
+        "salary_min": 6197,
+        "salary_max": 8050
+    },
+    {
+        "title": "Supply Chain Analyst",
+        "description": "Analyze procurement data to reduce costs in agricultural logistics.",
+        "company": "Kedah Agri-Logistics",
+        "required_skills": "Supply Chain, Data Analysis, SQL",
+        "experience_required": 2,
+        "location": "Sungai Petani, Kedah",
+        "salary_min": 5104,
+        "salary_max": 7055
+    },
+    {
+        "title": "HR Manager",
+        "description": "Manage recruitment, employee relations, and payroll for offshore operations.",
+        "company": "Labuan Offshore Services",
+        "required_skills": "Human Resources, Recruitment, Payroll, Labour Law",
+        "experience_required": 5,
+        "location": "Labuan",
+        "salary_min": 7790,
+        "salary_max": 9438
+    },
+    {
+        "title": "Pharmacist",
+        "description": "Dispense medications and provide consultations to retail customers.",
+        "company": "Kelantan Community Pharmacy",
+        "required_skills": "Pharmacy, Healthcare, Customer Service",
+        "experience_required": 1,
+        "location": "Kota Bharu, Kelantan",
+        "salary_min": 3895,
+        "salary_max": 4974
+    },
+    {
+        "title": "Petroleum Engineer",
+        "description": "Optimize drilling operations and ensure safety compliance on offshore rigs.",
+        "company": "Terengganu O&G",
+        "required_skills": "Petroleum Engineering, Safety, Drilling",
+        "experience_required": 4,
+        "location": "Kemaman, Terengganu",
+        "salary_min": 6962,
+        "salary_max": 8050
+    },
+    {
+        "title": "Sales Executive",
+        "description": "Drive regional sales for automotive parts and build B2B relationships.",
+        "company": "Perlis Auto Parts",
+        "required_skills": "Sales, B2B, Negotiation, Communication",
+        "experience_required": 2,
+        "location": "Kangar, Perlis",
+        "salary_min": 4527,
+        "salary_max": 6467
+    },
+    {
+        "title": "Agricultural Scientist",
+        "description": "Develop new fertilizers and pest control methods for local farmers.",
+        "company": "Sarawak Agri-Research",
+        "required_skills": "Agriculture, Science, Research, Biology",
+        "experience_required": 3,
+        "location": "Bintulu, Sarawak",
+        "salary_min": 5588,
+        "salary_max": 8457
+    },
+    {
+        "title": "Bank Teller",
+        "description": "Handle day-to-day banking transactions and assist customers with inquiries.",
+        "company": "Melaka Islamic Bank",
+        "required_skills": "Banking, Customer Service, Cash Handling",
+        "experience_required": 1,
+        "location": "Melaka",
+        "salary_min": 4424,
+        "salary_max": 8206
+    },
+    {
+        "title": "Wildlife Conservation Officer",
+        "description": "Monitor endangered species and enforce wildlife protection laws.",
+        "company": "Sabah Wildlife Dept",
+        "required_skills": "Conservation, Biology, Field Work",
+        "experience_required": 3,
+        "location": "Sandakan, Sabah",
+        "salary_min": 5864,
+        "salary_max": 9444
+    },
+    {
+        "title": "Compliance Officer",
+        "description": "Ensure financial activities comply with offshore financial center regulations.",
+        "company": "Labuan Financial Authority",
+        "required_skills": "Compliance, Law, Finance, Auditing",
+        "experience_required": 4,
+        "location": "Labuan",
+        "salary_min": 7022,
+        "salary_max": 10834
+    },
+    {
+        "title": "Factory Supervisor",
+        "description": "Supervise manufacturing processes and ensure production targets are met.",
+        "company": "Johor Manufacturing Hub",
+        "required_skills": "Manufacturing, Leadership, Quality Control",
+        "experience_required": 4,
+        "location": "Johor Bahru, Johor",
+        "salary_min": 7330,
+        "salary_max": 10866
+    },
+    {
+        "title": "Customs Clerk",
+        "description": "Handle cross-border logistics and import/export documentation.",
+        "company": "JB Cross Border Logistics",
+        "required_skills": "Logistics, Documentation, Customs",
+        "experience_required": 1,
+        "location": "Iskandar Puteri, Johor",
+        "salary_min": 4040,
+        "salary_max": 5865
+    },
+    {
+        "title": "Biomedical Engineer",
+        "description": "Maintain and repair medical equipment in regional hospitals.",
+        "company": "Southern Medical Solutions",
+        "required_skills": "Biomedical Engineering, Maintenance",
+        "experience_required": 3,
+        "location": "Batu Pahat, Johor",
+        "salary_min": 5803,
+        "salary_max": 8636
+    },
+    {
+        "title": "Retail Store Assistant",
+        "description": "Provide excellent customer service and manage retail stock.",
+        "company": "Johor Premium Outlets",
+        "required_skills": "Retail, Customer Service, Sales",
+        "experience_required": 1,
+        "location": "Kulai, Johor",
+        "salary_min": 3991,
+        "salary_max": 7543
+    },
+    {
+        "title": "Real Estate Agent",
+        "description": "Sell and rent residential properties in the rapidly growing Iskandar region.",
+        "company": "JB Properties",
+        "required_skills": "Real Estate, Sales, Negotiation",
+        "experience_required": 2,
+        "location": "Johor Bahru, Johor",
+        "salary_min": 5350,
+        "salary_max": 7107
+    },
+    {
+        "title": "Forestry Manager",
+        "description": "Manage sustainable logging and reforestation efforts.",
+        "company": "Pahang Timber Resources",
+        "required_skills": "Forestry, Conservation, Management",
+        "experience_required": 5,
+        "location": "Kuantan, Pahang",
+        "salary_min": 7775,
+        "salary_max": 9684
+    },
+    {
+        "title": "Port Operations Executive",
+        "description": "Coordinate ship loading and unloading schedules at the deepwater port.",
+        "company": "Kuantan Port Authority",
+        "required_skills": "Port Operations, Logistics, Coordination",
+        "experience_required": 3,
+        "location": "Kuantan, Pahang",
+        "salary_min": 6088,
+        "salary_max": 7165
+    },
+    {
+        "title": "Plantation Supervisor",
+        "description": "Oversee daily operations of oil palm plantations and manage estate workers.",
+        "company": "Pahang Agri Group",
+        "required_skills": "Agriculture, Plantation Management",
+        "experience_required": 3,
+        "location": "Jerantut, Pahang",
+        "salary_min": 6241,
+        "salary_max": 7333
+    },
+    {
+        "title": "Chemical Process Technician",
+        "description": "Monitor chemical processing lines in the Gebeng industrial zone.",
+        "company": "Gebeng Petrochemicals",
+        "required_skills": "Chemical Engineering, Safety, Monitoring",
+        "experience_required": 2,
+        "location": "Gebeng, Pahang",
+        "salary_min": 4734,
+        "salary_max": 8322
+    },
+    {
+        "title": "Resort Hospitality Manager",
+        "description": "Manage operations for a luxury eco-resort in the highlands.",
+        "company": "Cameron Highlands Resort",
+        "required_skills": "Hospitality Management, Customer Service",
+        "experience_required": 4,
+        "location": "Cameron Highlands, Pahang",
+        "salary_min": 6640,
+        "salary_max": 10470
+    },
+    {
+        "title": "Quality Assurance Inspector",
+        "description": "Inspect electronic components for defects before shipping.",
+        "company": "Ipoh Electronics",
+        "required_skills": "QA, Inspection, Attention to Detail",
+        "experience_required": 2,
+        "location": "Ipoh, Perak",
+        "salary_min": 4690,
+        "salary_max": 8413
+    },
+    {
+        "title": "History Teacher",
+        "description": "Teach history to secondary school students with a focus on local heritage.",
+        "company": "Perak Heritage School",
+        "required_skills": "Teaching, History, Education",
+        "experience_required": 2,
+        "location": "Taiping, Perak",
+        "salary_min": 5121,
+        "salary_max": 7329
+    },
+    {
+        "title": "Automotive Mechanic",
+        "description": "Diagnose and repair vehicles for a major automotive service center.",
+        "company": "Perak Auto Services",
+        "required_skills": "Automotive Repair, Diagnostics",
+        "experience_required": 3,
+        "location": "Ipoh, Perak",
+        "salary_min": 5837,
+        "salary_max": 7647
+    },
+    {
+        "title": "Data Entry Clerk",
+        "description": "Enter administrative data into the central state government database.",
+        "company": "Perak State Dept",
+        "required_skills": "Data Entry, Typing, Administration",
+        "experience_required": 1,
+        "location": "Ipoh, Perak",
+        "salary_min": 3643,
+        "salary_max": 5717
+    },
+    {
+        "title": "Marine Logistics Officer",
+        "description": "Handle shipping logistics at the Lumut port facility.",
+        "company": "Lumut Maritime",
+        "required_skills": "Logistics, Maritime, Supply Chain",
+        "experience_required": 3,
+        "location": "Lumut, Perak",
+        "salary_min": 6058,
+        "salary_max": 9980
+    },
+    {
+        "title": "Semiconductor Engineer",
+        "description": "Design and optimize semiconductor manufacturing processes.",
+        "company": "Seremban Semi",
+        "required_skills": "Engineering, Semiconductors, Process Optimization",
+        "experience_required": 4,
+        "location": "Seremban, Negeri Sembilan",
+        "salary_min": 6538,
+        "salary_max": 9911
+    },
+    {
+        "title": "Production Operator",
+        "description": "Operate heavy machinery in a fast-paced manufacturing plant.",
+        "company": "Nilai Manufacturing",
+        "required_skills": "Machine Operation, Safety, Production",
+        "experience_required": 1,
+        "location": "Nilai, Negeri Sembilan",
+        "salary_min": 4492,
+        "salary_max": 5644
+    },
+    {
+        "title": "Clinic Receptionist",
+        "description": "Manage patient appointments and front-desk administrative duties.",
+        "company": "Seremban Specialist Clinic",
+        "required_skills": "Administration, Customer Service, Scheduling",
+        "experience_required": 1,
+        "location": "Seremban, Negeri Sembilan",
+        "salary_min": 4493,
+        "salary_max": 7760
+    },
+    {
+        "title": "Sales Representative",
+        "description": "Drive regional sales for FMCG products.",
+        "company": "Negeri FMCG Distributors",
+        "required_skills": "Sales, B2B, Negotiation",
+        "experience_required": 2,
+        "location": "Port Dickson, Negeri Sembilan",
+        "salary_min": 4551,
+        "salary_max": 6058
+    },
+    {
+        "title": "Safety Officer",
+        "description": "Ensure workplace safety regulations are met at construction sites.",
+        "company": "NS Builders",
+        "required_skills": "OSHA, Safety, Construction",
+        "experience_required": 3,
+        "location": "Seremban, Negeri Sembilan",
+        "salary_min": 5827,
+        "salary_max": 9339
+    },
+    {
+        "title": "Public Policy Analyst",
+        "description": "Analyze and draft public policies for government ministries.",
+        "company": "Ministry of Finance",
+        "required_skills": "Policy Analysis, Government, Research",
+        "experience_required": 4,
+        "location": "Putrajaya",
+        "salary_min": 7139,
+        "salary_max": 8769
+    },
+    {
+        "title": "Cybersecurity Consultant",
+        "description": "Provide security audits and consulting for federal IT infrastructure.",
+        "company": "GovTech Malaysia",
+        "required_skills": "Cybersecurity, Auditing, Network Security",
+        "experience_required": 5,
+        "location": "Putrajaya",
+        "salary_min": 8280,
+        "salary_max": 11920
+    },
+    {
+        "title": "Legal Advisor",
+        "description": "Provide legal counsel for government contracts and regulatory compliance.",
+        "company": "Attorney General's Chambers",
+        "required_skills": "Law, Contracts, Compliance",
+        "experience_required": 4,
+        "location": "Putrajaya",
+        "salary_min": 7471,
+        "salary_max": 11106
+    },
+    {
+        "title": "Urban Planning Executive",
+        "description": "Assist in the sustainable urban development of the federal territory.",
+        "company": "Putrajaya Corporation",
+        "required_skills": "Urban Planning, Sustainability, GIS",
+        "experience_required": 3,
+        "location": "Putrajaya",
+        "salary_min": 5781,
+        "salary_max": 8070
+    },
+    {
+        "title": "Administrative Coordinator",
+        "description": "Coordinate inter-departmental meetings and official correspondence.",
+        "company": "Prime Minister's Dept",
+        "required_skills": "Administration, Coordination, Communication",
+        "experience_required": 2,
+        "location": "Putrajaya",
+        "salary_min": 4885,
+        "salary_max": 7636
+    },
+    {
+        "title": "Agronomist",
+        "description": "Provide expert advice on soil management and crop production.",
+        "company": "Sabah Agriculture Dept",
+        "required_skills": "Agronomy, Soil Science, Agriculture",
+        "experience_required": 3,
+        "location": "Kota Kinabalu, Sabah",
+        "salary_min": 5662,
+        "salary_max": 6719
+    },
+    {
+        "title": "Scuba Diving Instructor",
+        "description": "Lead diving expeditions and certify new divers.",
+        "company": "Semporna Dive Center",
+        "required_skills": "PADI Certification, Diving, Customer Service",
+        "experience_required": 2,
+        "location": "Semporna, Sabah",
+        "salary_min": 5085,
+        "salary_max": 8151
+    },
+    {
+        "title": "Electrical Technician",
+        "description": "Maintain power grids and electrical infrastructure in rural areas.",
+        "company": "Sabah Electricity",
+        "required_skills": "Electrical Engineering, Maintenance",
+        "experience_required": 2,
+        "location": "Tawau, Sabah",
+        "salary_min": 4997,
+        "salary_max": 6124
+    },
+    {
+        "title": "Content Creator",
+        "description": "Produce engaging video content to promote local tourism.",
+        "company": "Sabah Tourism Board",
+        "required_skills": "Video Editing, Social Media, Content Creation",
+        "experience_required": 1,
+        "location": "Kota Kinabalu, Sabah",
+        "salary_min": 3532,
+        "salary_max": 5525
+    },
+    {
+        "title": "Operations Executive",
+        "description": "Oversee logistics and transport schedules for palm oil distribution.",
+        "company": "Sandakan Palm Oil Logistics",
+        "required_skills": "Logistics, Operations, Scheduling",
+        "experience_required": 3,
+        "location": "Sandakan, Sabah",
+        "salary_min": 6173,
+        "salary_max": 7321
+    },
+    {
+        "title": "Hydroelectric Engineer",
+        "description": "Manage operations and maintenance of hydroelectric dam turbines.",
+        "company": "Sarawak Energy",
+        "required_skills": "Electrical Engineering, Hydroelectric, Maintenance",
+        "experience_required": 5,
+        "location": "Kuching, Sarawak",
+        "salary_min": 8113,
+        "salary_max": 10858
+    },
+    {
+        "title": "Civil Drafter",
+        "description": "Create detailed CAD drawings for the Pan Borneo Highway project.",
+        "company": "Borneo Highway Contractors",
+        "required_skills": "AutoCAD, Drafting, Civil Engineering",
+        "experience_required": 2,
+        "location": "Bintulu, Sarawak",
+        "salary_min": 4535,
+        "salary_max": 8247
+    },
+    {
+        "title": "Community Nurse",
+        "description": "Provide essential healthcare services to remote communities.",
+        "company": "Sarawak Rural Health",
+        "required_skills": "Nursing, Patient Care, First Aid",
+        "experience_required": 2,
+        "location": "Miri, Sarawak",
+        "salary_min": 5343,
+        "salary_max": 9055
+    },
+    {
+        "title": "IT Systems Analyst",
+        "description": "Implement and upgrade IT systems for local government branches.",
+        "company": "Kuching Tech Gov",
+        "required_skills": "IT Analysis, Systems Implementation",
+        "experience_required": 3,
+        "location": "Kuching, Sarawak",
+        "salary_min": 5521,
+        "salary_max": 8110
+    },
+    {
+        "title": "Supply Chain Coordinator",
+        "description": "Coordinate the supply of equipment for offshore oil rigs.",
+        "company": "Miri Offshore Supply",
+        "required_skills": "Supply Chain, Logistics, Coordination",
+        "experience_required": 3,
+        "location": "Miri, Sarawak",
+        "salary_min": 6090,
+        "salary_max": 9452
+    },
+    {
+        "title": "Heritage Site Restorer",
+        "description": "Restore and maintain historical buildings and artifacts.",
+        "company": "Melaka Museums",
+        "required_skills": "Architecture, Restoration, History",
+        "experience_required": 4,
+        "location": "Melaka",
+        "salary_min": 7132,
+        "salary_max": 9931
+    },
+    {
+        "title": "Manufacturing Engineer",
+        "description": "Optimize assembly lines for automotive parts manufacturing.",
+        "company": "Melaka Auto Parts",
+        "required_skills": "Manufacturing, Engineering, Optimization",
+        "experience_required": 3,
+        "location": "Alor Gajah, Melaka",
+        "salary_min": 5768,
+        "salary_max": 9249
+    },
+    {
+        "title": "Customer Success Manager",
+        "description": "Ensure client satisfaction and retention for a local SaaS startup.",
+        "company": "Melaka Tech Innovators",
+        "required_skills": "Customer Success, Communication, SaaS",
+        "experience_required": 3,
+        "location": "Melaka",
+        "salary_min": 6124,
+        "salary_max": 8471
+    },
+    {
+        "title": "Cafe Manager",
+        "description": "Run daily operations of a popular boutique cafe in the tourist district.",
+        "company": "Jonker Street Roasters",
+        "required_skills": "F&B Management, Customer Service",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 5163,
+        "salary_max": 6307
+    },
+    {
+        "title": "Logistics Planner",
+        "description": "Plan optimal delivery routes for a regional courier service.",
+        "company": "Melaka Express Delivery",
+        "required_skills": "Logistics, Route Planning",
+        "experience_required": 2,
+        "location": "Melaka",
+        "salary_min": 5338,
+        "salary_max": 9120
+    },
+    {
+        "title": "Tax Consultant",
+        "description": "Advise international corporations on offshore tax compliance.",
+        "company": "Labuan Financial Services",
+        "required_skills": "Tax, Finance, Compliance",
+        "experience_required": 4,
+        "location": "Labuan",
+        "salary_min": 6501,
+        "salary_max": 7851
+    },
+    {
+        "title": "Marine Surveyor",
+        "description": "Inspect and certify ships arriving at the Labuan port.",
+        "company": "Labuan Maritime Surveys",
+        "required_skills": "Marine Engineering, Surveying, Safety",
+        "experience_required": 5,
+        "location": "Labuan",
+        "salary_min": 8376,
+        "salary_max": 12143
+    },
+    {
+        "title": "Islamic Finance Executive",
+        "description": "Process and approve Shariah-compliant financing applications.",
+        "company": "Kelantan Islamic Bank",
+        "required_skills": "Islamic Finance, Banking",
+        "experience_required": 2,
+        "location": "Kota Bharu, Kelantan",
+        "salary_min": 5384,
+        "salary_max": 7778
+    },
+    {
+        "title": "Textile Designer",
+        "description": "Design modern batik patterns for the fashion industry.",
+        "company": "Kelantan Batik Arts",
+        "required_skills": "Design, Textiles, Creativity",
+        "experience_required": 2,
+        "location": "Kota Bharu, Kelantan",
+        "salary_min": 4703,
+        "salary_max": 6917
+    },
+    {
+        "title": "Marine Engineer",
+        "description": "Provide technical support for coastal patrol vessels.",
+        "company": "Terengganu Shipyards",
+        "required_skills": "Marine Engineering, Maintenance",
+        "experience_required": 3,
+        "location": "Kuala Terengganu, Terengganu",
+        "salary_min": 5797,
+        "salary_max": 8729
+    },
+    {
+        "title": "Petrochemical Plant Operator",
+        "description": "Monitor control panels in an oil and gas processing facility.",
+        "company": "Terengganu O&G Processing",
+        "required_skills": "Plant Operation, Safety, Monitoring",
+        "experience_required": 2,
+        "location": "Kemaman, Terengganu",
+        "salary_min": 5292,
+        "salary_max": 7557
+    },
+    {
+        "title": "Procurement Executive (Contract)",
+        "description": "",
+        "company": "Coca-Cola Bottlers (Malaysia) Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Negeri Sembilan",
+        "salary_min": 3244,
+        "salary_max": 5168
+    },
+    {
+        "title": "Account Executive/ Assistant",
+        "description": "",
+        "company": "Acoustic & Lighting System Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3455,
+        "salary_max": 6845
+    },
+    {
+        "title": "Data Analyst - Asset Management, SPX Express",
+        "description": "",
+        "company": "Shopee Mobile Malaysia Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 3456,
+        "salary_max": 7052
+    },
+    {
+        "title": "Service Engineer",
+        "description": "",
+        "company": "Sun Medical Systems Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3378,
+        "salary_max": 5420
+    },
+    {
+        "title": "Purchasing Executive",
+        "description": "",
+        "company": "Magnet Security & Automation Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Hulu Langat",
+        "salary_min": 3350,
+        "salary_max": 4495
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "HPMT Industries Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 3184,
+        "salary_max": 5084
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "GENETEC TECHNOLOGY BERHAD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kajang/Bangi/Serdang",
+        "salary_min": 3462,
+        "salary_max": 4734
+    },
+    {
+        "title": "PURCHASING EXECUTIVE",
+        "description": "",
+        "company": "MINSEC ENGINEERING SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3045,
+        "salary_max": 6098
+    },
+    {
+        "title": "Accounts Assistant (AP)",
+        "description": "",
+        "company": "KLK OLEO",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 2810,
+        "salary_max": 6807
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "Lein Hing Holdings Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2938,
+        "salary_max": 4567
+    },
+    {
+        "title": "Clerical Assistant (Educational Centre)",
+        "description": "",
+        "company": "AGENSI PEKERJAAN JS STAFFING SERVICES SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Bangsar South",
+        "salary_min": 3082,
+        "salary_max": 6298
+    },
+    {
+        "title": "Finance Executive",
+        "description": "",
+        "company": "CapitaLand Malaysia REIT Management Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur City Centre",
+        "salary_min": 2661,
+        "salary_max": 6445
+    },
+    {
+        "title": "Purchasing Assistant",
+        "description": "",
+        "company": "OTC Cosmetic Industries Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Selangor District",
+        "salary_min": 3045,
+        "salary_max": 5026
+    },
+    {
+        "title": "Penetration Tester",
+        "description": "",
+        "company": "MODE FAIR SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3352,
+        "salary_max": 5105
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "Binastra Land Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Bukit Jalil",
+        "salary_min": 2598,
+        "salary_max": 6033
+    },
+    {
+        "title": "HR & Admin Executive",
+        "description": "",
+        "company": "Mazone Service",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang Island",
+        "salary_min": 3068,
+        "salary_max": 6841
+    },
+    {
+        "title": "Audit Assistant",
+        "description": "",
+        "company": "William C.H. Tan & Associates",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3217,
+        "salary_max": 4789
+    },
+    {
+        "title": "Admin cum HR Executive",
+        "description": "",
+        "company": "Alpha Automation (Selangor) Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 2864,
+        "salary_max": 4742
+    },
+    {
+        "title": "Key Account Executive (Chemistry/Oil & Gas)",
+        "description": "",
+        "company": "Chemopharm Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Sarawak",
+        "salary_min": 2768,
+        "salary_max": 6383
+    },
+    {
+        "title": "Operations Engineer",
+        "description": "",
+        "company": "Direct Access Solutions Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3314,
+        "salary_max": 6862
+    },
+    {
+        "title": "Assistant Human Capital Manager/ Senior Human Capital Executive",
+        "description": "",
+        "company": "Yoke Food Industries Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kulai District",
+        "salary_min": 2822,
+        "salary_max": 6093
+    },
+    {
+        "title": "Invoicing Assistant",
+        "description": "",
+        "company": "SUNGIL TECH SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 3141,
+        "salary_max": 5645
+    },
+    {
+        "title": "Account cum Admin Executive",
+        "description": "",
+        "company": "Dessert Captain Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 2556,
+        "salary_max": 3842
+    },
+    {
+        "title": "Software QA Analyst (Manual Testing)",
+        "description": "",
+        "company": "MODE FAIR SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3323,
+        "salary_max": 5939
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "Esteel Enterprise Sabah Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Sipitang District",
+        "salary_min": 3472,
+        "salary_max": 5730
+    },
+    {
+        "title": "Audit Associate",
+        "description": "",
+        "company": "PWCO E-SERVICES SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2714,
+        "salary_max": 5761
+    },
+    {
+        "title": "Business Executive (Work From Home)",
+        "description": "",
+        "company": "IXEN INTERACTIVE PTE. LTD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor",
+        "salary_min": 2782,
+        "salary_max": 6156
+    },
+    {
+        "title": "Mechanical Design Engineer",
+        "description": "",
+        "company": "GENETEC TECHNOLOGY BERHAD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Hulu Langat",
+        "salary_min": 3039,
+        "salary_max": 5220
+    },
+    {
+        "title": "Graduate Engineer (Civil and Structural)",
+        "description": "",
+        "company": "PROMPT ENGINEERING SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang",
+        "salary_min": 3107,
+        "salary_max": 6787
+    },
+    {
+        "title": "Finance Specialist/Senior Account Executive",
+        "description": "",
+        "company": "Garmin Malaysia Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "KL Eco City",
+        "salary_min": 3119,
+        "salary_max": 4151
+    },
+    {
+        "title": "Admin. & Accounts Clerk",
+        "description": "",
+        "company": "Classic Mode Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Hulu Langat",
+        "salary_min": 3018,
+        "salary_max": 5496
+    },
+    {
+        "title": "Engineer",
+        "description": "",
+        "company": "Sunshine Circuit (Penang) Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Seberang Perai",
+        "salary_min": 2633,
+        "salary_max": 4146
+    },
+    {
+        "title": "HR & Admin Manager",
+        "description": "",
+        "company": "Bio Harvest Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Gombak District",
+        "salary_min": 3398,
+        "salary_max": 5685
+    },
+    {
+        "title": "IT QA Analyst",
+        "description": "",
+        "company": "Boardroom Corporate Services Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3152,
+        "salary_max": 5090
+    },
+    {
+        "title": "Personal Assistant For Project Manager",
+        "description": "",
+        "company": "Distinct Hub PLT",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3382,
+        "salary_max": 5121
+    },
+    {
+        "title": "Internal Audit Executive / Senior Executive",
+        "description": "",
+        "company": "TMK CHEMICAL BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3105,
+        "salary_max": 6115
+    },
+    {
+        "title": "Associate Data Engineer (Hybrid Working)",
+        "description": "",
+        "company": "SEEK",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2669,
+        "salary_max": 4450
+    },
+    {
+        "title": "Executive of International Student Office",
+        "description": "",
+        "company": "International University of Malaya-Wales Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3393,
+        "salary_max": 4700
+    },
+    {
+        "title": "Customer Service Representative",
+        "description": "",
+        "company": "Swift-Value Business Pte. Ltd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3191,
+        "salary_max": 5948
+    },
+    {
+        "title": "Audit and Tax Assistant (Fresh Graduates)",
+        "description": "",
+        "company": "AGENSI PEKERJAAN JS STAFFING SERVICES SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 3178,
+        "salary_max": 5071
+    },
+    {
+        "title": "Planner Controller",
+        "description": "",
+        "company": "OTC Cosmetic Industries Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Selangor District",
+        "salary_min": 3186,
+        "salary_max": 6741
+    },
+    {
+        "title": "Office Services Assistant (6 months contract)",
+        "description": "",
+        "company": "Wong & Partners",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3073,
+        "salary_max": 5846
+    },
+    {
+        "title": "IT Business Analyst",
+        "description": "",
+        "company": "Boardroom Corporate Services Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2630,
+        "salary_max": 5823
+    },
+    {
+        "title": "HR Manager",
+        "description": "",
+        "company": "TMK CHEMICAL BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Langat",
+        "salary_min": 3070,
+        "salary_max": 4678
+    },
+    {
+        "title": "Executive/ Sr. Executive, Accounts",
+        "description": "",
+        "company": "Daikin Malaysia Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2515,
+        "salary_max": 4026
+    },
+    {
+        "title": "Operation Clerk",
+        "description": "",
+        "company": "Top Speed Transport Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 3032,
+        "salary_max": 5367
+    },
+    {
+        "title": "Sr. Engineer/Assistant Manager -R&D Project Management",
+        "description": "",
+        "company": "B. Braun Medical Industries Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang",
+        "salary_min": 3041,
+        "salary_max": 4209
+    },
+    {
+        "title": "E-commerce / Sales Admin / Secretary",
+        "description": "",
+        "company": "CIP GROUP SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Seremban District",
+        "salary_min": 2835,
+        "salary_max": 5777
+    },
+    {
+        "title": "Data Analyst (E-Commerce)",
+        "description": "",
+        "company": "AGENSI PEKERJAAN JS STAFFING SERVICES SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Selangor District",
+        "salary_min": 2539,
+        "salary_max": 5829
+    },
+    {
+        "title": "Sales Executive (Management Trainee) - KEPONG",
+        "description": "",
+        "company": "WINTOO TECHNOLOGY SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kepong",
+        "salary_min": 3102,
+        "salary_max": 6066
+    },
+    {
+        "title": "Injection Process Engineer",
+        "description": "",
+        "company": "Leaderart Industries (M) Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2564,
+        "salary_max": 6055
+    },
+    {
+        "title": "Finance & Office Executive",
+        "description": "",
+        "company": "Ice Cube Marketing",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 3362,
+        "salary_max": 6986
+    },
+    {
+        "title": "Account executive",
+        "description": "",
+        "company": "EVER FRESH CAMERON SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3391,
+        "salary_max": 6470
+    },
+    {
+        "title": "Sales Executive (Microbiology)",
+        "description": "",
+        "company": "Chemopharm Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 2872,
+        "salary_max": 6430
+    },
+    {
+        "title": "Admin Executive cum PA to Managing Director",
+        "description": "",
+        "company": "Ecopia Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 3078,
+        "salary_max": 4632
+    },
+    {
+        "title": "CORPORATE SALES EXECUTIVE",
+        "description": "",
+        "company": "VODATEL SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3207,
+        "salary_max": 4573
+    },
+    {
+        "title": "Procurement Executive",
+        "description": "",
+        "company": "ERIKS",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 2902,
+        "salary_max": 6770
+    },
+    {
+        "title": "Sales Admin Clerk ( \u9500\u552e\u884c\u653f\u6587\u5458) RM2000-RM3000",
+        "description": "",
+        "company": "QL Lian Hoe Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2734,
+        "salary_max": 5175
+    },
+    {
+        "title": "Account Executive",
+        "description": "",
+        "company": "Zeck Soon Auto Parts Trading Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 2625,
+        "salary_max": 6522
+    },
+    {
+        "title": "Sr. Engineer/ Engineer- DfX & DtX (Packaging & Sterilization)",
+        "description": "",
+        "company": "B. Braun Medical Industries Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang Island",
+        "salary_min": 2653,
+        "salary_max": 4359
+    },
+    {
+        "title": "Backend Developer",
+        "description": "",
+        "company": "GREYWOLF NETWORKS SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Bangsar South",
+        "salary_min": 3063,
+        "salary_max": 6930
+    },
+    {
+        "title": "Admin cum logistic coordinator",
+        "description": "",
+        "company": "Yonja Performance Materials Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 3038,
+        "salary_max": 5804
+    },
+    {
+        "title": "HR Assistant Manager (Client Facing Advisory) - Work from Home",
+        "description": "",
+        "company": "3E ACCOUNTING PTE LTD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3356,
+        "salary_max": 6516
+    },
+    {
+        "title": "Accounts cum Tax Executive",
+        "description": "",
+        "company": "SWITCH CORPORATE MANAGEMENT (M) SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang Island",
+        "salary_min": 2919,
+        "salary_max": 6469
+    },
+    {
+        "title": "Finance Executive",
+        "description": "",
+        "company": "Best Eternity Recycle Technology Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Langat",
+        "salary_min": 2801,
+        "salary_max": 6629
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "Aimflex Systems Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kulai District",
+        "salary_min": 3009,
+        "salary_max": 6579
+    },
+    {
+        "title": "Senior Analyst, Loan Operation Services",
+        "description": "",
+        "company": "SUMITOMO MITSUI BANKING CORPORATION SHARED SERVICES",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3336,
+        "salary_max": 4552
+    },
+    {
+        "title": "Front End Engineer",
+        "description": "",
+        "company": "Payments Network Malaysia Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2973,
+        "salary_max": 6568
+    },
+    {
+        "title": "Manager, Finance",
+        "description": "",
+        "company": "OLYLIFE INTERNATIONAL SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2713,
+        "salary_max": 5423
+    },
+    {
+        "title": "Assistant Human Resource Manager",
+        "description": "",
+        "company": "MumsMe Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2788,
+        "salary_max": 4885
+    },
+    {
+        "title": "Service Desk Analyst (Indonesian Speaker)",
+        "description": "",
+        "company": "Atos Services (M) Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Sepang",
+        "salary_min": 2550,
+        "salary_max": 4906
+    },
+    {
+        "title": "Senior Executive, Credit Control",
+        "description": "",
+        "company": "Sunway Medical Centre Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2872,
+        "salary_max": 6203
+    },
+    {
+        "title": "HR/ Admin Executive",
+        "description": "",
+        "company": "TOP TRAFFIC MARKETING",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang Island",
+        "salary_min": 2851,
+        "salary_max": 6679
+    },
+    {
+        "title": "Audit Cum Tax Assistant",
+        "description": "",
+        "company": "CBL CO (AF 2104)",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 2889,
+        "salary_max": 4301
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "description": "",
+        "company": "MODE FAIR SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3282,
+        "salary_max": 5935
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "IOI Plantation Services Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Putrajaya",
+        "salary_min": 2982,
+        "salary_max": 6897
+    },
+    {
+        "title": "Software Support Engineer",
+        "description": "",
+        "company": "SILVERSTREAM TECHNOLOGY SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2996,
+        "salary_max": 4056
+    },
+    {
+        "title": "Sales Admin Executive",
+        "description": "",
+        "company": "UNIFEEDER MALAYSIA SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 2949,
+        "salary_max": 5784
+    },
+    {
+        "title": "Sales Executive",
+        "description": "",
+        "company": "Sang Lin Tackle Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang",
+        "salary_min": 2801,
+        "salary_max": 3958
+    },
+    {
+        "title": "PHP Software Engineer",
+        "description": "",
+        "company": "SILVERSTREAM TECHNOLOGY SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3418,
+        "salary_max": 5586
+    },
+    {
+        "title": "Supply Chain Logistic and Fulfillment Specialist",
+        "description": "",
+        "company": "SCI ECOMMERCE",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3348,
+        "salary_max": 4983
+    },
+    {
+        "title": "Senior Contract Executive/ Asst. Contract Manager/ Contract Manager",
+        "description": "",
+        "company": "Sunway Construction Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2803,
+        "salary_max": 5800
+    },
+    {
+        "title": "Electrical Engineer/Technician (Fresh graduates are welcome to apply)",
+        "description": "",
+        "company": "CENTECH MACHINERY SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2562,
+        "salary_max": 6485
+    },
+    {
+        "title": "Human Resources & Administration Manager",
+        "description": "",
+        "company": "South Island Garment Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Seberang Perai",
+        "salary_min": 2857,
+        "salary_max": 6322
+    },
+    {
+        "title": "Angular Developer",
+        "description": "",
+        "company": "Boardroom Corporate Services Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2678,
+        "salary_max": 6413
+    },
+    {
+        "title": "Senior Accounting Executive",
+        "description": "",
+        "company": "Mana-Mana Suites Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3274,
+        "salary_max": 4739
+    },
+    {
+        "title": "ACCOUNTS EXECUTIVE",
+        "description": "",
+        "company": "Able Global Berhad (Formerly Known as Johore Tin Berhad)",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 3428,
+        "salary_max": 5996
+    },
+    {
+        "title": "Assistant Market Manager",
+        "description": "",
+        "company": "Ecolex",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 3116,
+        "salary_max": 4218
+    },
+    {
+        "title": "Supply Chain Planning",
+        "description": "",
+        "company": "SCI ECOMMERCE",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2710,
+        "salary_max": 4542
+    },
+    {
+        "title": "Accountant",
+        "description": "",
+        "company": "IMIKA EMPIRE SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kinta District",
+        "salary_min": 2512,
+        "salary_max": 5788
+    },
+    {
+        "title": "ADMIN  AND PROCUREMENT EXECUTIVE",
+        "description": "",
+        "company": "Hunwin Enterprises (M) Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3255,
+        "salary_max": 5820
+    },
+    {
+        "title": "Analyst, Anti Money Laundering (AML)",
+        "description": "",
+        "company": "SUMITOMO MITSUI BANKING CORPORATION SHARED SERVICES",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "KL Eco City",
+        "salary_min": 3024,
+        "salary_max": 5821
+    },
+    {
+        "title": "Senior Finance Executive",
+        "description": "",
+        "company": "CENTERFIELD BUSINESS SOLUTIONS SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3385,
+        "salary_max": 6476
+    },
+    {
+        "title": "HR & Admin Assistant Manager/Manager",
+        "description": "",
+        "company": "SEAMAP (MALAYSIA) SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor",
+        "salary_min": 3002,
+        "salary_max": 4322
+    },
+    {
+        "title": "Operations Executive",
+        "description": "",
+        "company": "Bio Harvest Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Gombak District",
+        "salary_min": 2761,
+        "salary_max": 6750
+    },
+    {
+        "title": "Admin Manager",
+        "description": "",
+        "company": "ECO-SHOP MARKETING SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 3383,
+        "salary_max": 6044
+    },
+    {
+        "title": "Application Support Engineer - Credit Processing Apps",
+        "description": "",
+        "company": "NTT DATA SERVICES MALAYSIA SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2950,
+        "salary_max": 6062
+    },
+    {
+        "title": "PA to Chairman",
+        "description": "",
+        "company": "NOVEL LEAP SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 2719,
+        "salary_max": 4656
+    },
+    {
+        "title": "Executive - Parts Planning & Ordering, Spare Parts Division",
+        "description": "",
+        "company": "Perodua Sales Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Gombak District",
+        "salary_min": 3242,
+        "salary_max": 5790
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "Kaizer Exhibitions & Conferences Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Segambut",
+        "salary_min": 3029,
+        "salary_max": 6432
+    },
+    {
+        "title": "ADMIN ASSISTANT",
+        "description": "",
+        "company": "Anticimex Pest Management Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 2810,
+        "salary_max": 4150
+    },
+    {
+        "title": "Intern - Finance",
+        "description": "",
+        "company": "Sunway Multicare Pharmacy",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Hulu Langat",
+        "salary_min": 2973,
+        "salary_max": 5187
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "Daitobest Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2744,
+        "salary_max": 5651
+    },
+    {
+        "title": "Executive Secretary",
+        "description": "",
+        "company": "Sunway Medical Centre Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kinta District",
+        "salary_min": 2524,
+        "salary_max": 4843
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "Pacific Oil Seals Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 3446,
+        "salary_max": 7384
+    },
+    {
+        "title": "Admin Assistant/ Admin Clerk",
+        "description": "",
+        "company": "USJAYA SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Melaka",
+        "salary_min": 2676,
+        "salary_max": 4062
+    },
+    {
+        "title": "HR Manager",
+        "description": "",
+        "company": "Ecopia Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 2874,
+        "salary_max": 5153
+    },
+    {
+        "title": "Human Resource Executive/ Officer (2 vacancies)",
+        "description": "",
+        "company": "Daiman Development Berhad",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2966,
+        "salary_max": 6507
+    },
+    {
+        "title": "Customer Service Executive",
+        "description": "",
+        "company": "QUBE APPS SOLUTIONS SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kepong",
+        "salary_min": 2502,
+        "salary_max": 6366
+    },
+    {
+        "title": "Plant Manager (Factory in Oversea)/\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19",
+        "description": "",
+        "company": "T.C. Pharmaceutical Industries Co., Ltd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Malaysia",
+        "salary_min": 3443,
+        "salary_max": 4735
+    },
+    {
+        "title": "Office Admin",
+        "description": "",
+        "company": "Mastering Services Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Shah Alam/Subang",
+        "salary_min": 2703,
+        "salary_max": 4371
+    },
+    {
+        "title": "Administrative Assistant",
+        "description": "",
+        "company": "ADASTRA IP (M) SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Bangsar",
+        "salary_min": 3088,
+        "salary_max": 4926
+    },
+    {
+        "title": "Business Admin Executive",
+        "description": "",
+        "company": "JEBSEN & JESSEN MALAYSIA SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3003,
+        "salary_max": 4184
+    },
+    {
+        "title": "Administration Officer",
+        "description": "",
+        "company": "Funai Malaysia R&D",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2906,
+        "salary_max": 5096
+    },
+    {
+        "title": "ASSISTANT ADMIN EXECUTIVE",
+        "description": "",
+        "company": "OTM GROUP SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 2719,
+        "salary_max": 5322
+    },
+    {
+        "title": "OFFICE ADMIN CUM ACCOUNT ASSISTANT",
+        "description": "",
+        "company": "KAS ZINC HOLDINGS SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2826,
+        "salary_max": 4133
+    },
+    {
+        "title": "Office Admin",
+        "description": "",
+        "company": "Kiddo Concepts Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3206,
+        "salary_max": 4269
+    },
+    {
+        "title": "Admin Operation Assistant",
+        "description": "",
+        "company": "My ShopNSave Group Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3063,
+        "salary_max": 4509
+    },
+    {
+        "title": "Management Trainee/Internship",
+        "description": "",
+        "company": "Smart Business Consulting",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3382,
+        "salary_max": 4627
+    },
+    {
+        "title": "Processing Officer",
+        "description": "",
+        "company": "ICON VENTURE CAPITAL SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3197,
+        "salary_max": 6893
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "A.KANGA AGENCY",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kajang/Bangi/Serdang",
+        "salary_min": 3098,
+        "salary_max": 4386
+    },
+    {
+        "title": "Internship Trainee - Project Engineer (Mechanical)",
+        "description": "",
+        "company": "United Straits M & E Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang Island",
+        "salary_min": 2621,
+        "salary_max": 6354
+    },
+    {
+        "title": "IT Executive",
+        "description": "",
+        "company": "Carlo Rino Group Berhad",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Lumpur",
+        "salary_min": 3253,
+        "salary_max": 6456
+    },
+    {
+        "title": "Customer Support Officer",
+        "description": "",
+        "company": "Mazone Service",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang",
+        "salary_min": 3396,
+        "salary_max": 5746
+    },
+    {
+        "title": "Human Resources Officer",
+        "description": "",
+        "company": "M EAST SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2975,
+        "salary_max": 6693
+    },
+    {
+        "title": "Finance assistant (6 months contract)",
+        "description": "",
+        "company": "Sunway Medical Centre Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2818,
+        "salary_max": 4506
+    },
+    {
+        "title": "General Admin",
+        "description": "",
+        "company": "Tehmag Foods Corporation Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 2678,
+        "salary_max": 6247
+    },
+    {
+        "title": "IT EXECUTIVE",
+        "description": "",
+        "company": "Panasonic Group of Companies",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2540,
+        "salary_max": 4906
+    },
+    {
+        "title": "Operations Executive",
+        "description": "",
+        "company": "ISJ TECHNOLOGY SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3154,
+        "salary_max": 6532
+    },
+    {
+        "title": "Associate - Agency Support (Ipoh Branch)",
+        "description": "",
+        "company": "TA Investment Management Berhad",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kinta District",
+        "salary_min": 3287,
+        "salary_max": 5992
+    },
+    {
+        "title": "Account Executive (Immediate Hiring!)",
+        "description": "",
+        "company": "LEO TECHNOLOGY SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 3072,
+        "salary_max": 4125
+    },
+    {
+        "title": "Exam Invigilators (External Contractor/Part-Time)",
+        "description": "",
+        "company": "SRI KDU SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3246,
+        "salary_max": 4814
+    },
+    {
+        "title": "Administrative Assistant",
+        "description": "",
+        "company": "Vivid Telecommunication Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3079,
+        "salary_max": 6120
+    },
+    {
+        "title": "Admin Executives - 2 positions",
+        "description": "",
+        "company": "ND PAPER MALAYSIA(SELANGOR) SDN BHD",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Langat",
+        "salary_min": 3132,
+        "salary_max": 5477
+    },
+    {
+        "title": "Admin Executive (Open to Fresh Graduate)",
+        "description": "",
+        "company": "J&J Concepts Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Cheras",
+        "salary_min": 2886,
+        "salary_max": 5289
+    },
+    {
+        "title": "Admin Assistant",
+        "description": "",
+        "company": "CNC Market Research and Consulting",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2982,
+        "salary_max": 6248
+    },
+    {
+        "title": "Vendor Management Executive",
+        "description": "",
+        "company": "Labuan Shipyard & Engineering Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Labuan",
+        "salary_min": 3317,
+        "salary_max": 5112
+    },
+    {
+        "title": "HR EXECUTIVE",
+        "description": "",
+        "company": "Panasonic Group of Companies",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3239,
+        "salary_max": 5147
+    },
+    {
+        "title": "Admin",
+        "description": "",
+        "company": "STRONGBOX TECH SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3088,
+        "salary_max": 4503
+    },
+    {
+        "title": "Executive, Production",
+        "description": "",
+        "company": "FFM Further Processing Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Klang District",
+        "salary_min": 2870,
+        "salary_max": 5707
+    },
+    {
+        "title": "Office Administrator",
+        "description": "",
+        "company": "DELUXE F&B SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "KL Eco City",
+        "salary_min": 2891,
+        "salary_max": 5948
+    },
+    {
+        "title": "Technical Assistant",
+        "description": "",
+        "company": "McDonald's Malaysia- Gerbang Alaf Restaurants Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Selangor",
+        "salary_min": 3156,
+        "salary_max": 4346
+    },
+    {
+        "title": "HR & Admin Executive",
+        "description": "",
+        "company": "JCT INDUSTRIES GROUP SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kuala Muda",
+        "salary_min": 3206,
+        "salary_max": 5445
+    },
+    {
+        "title": "Admin Executive",
+        "description": "",
+        "company": "INSPIRE EDGE STUDIO",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 2583,
+        "salary_max": 5209
+    },
+    {
+        "title": "Junior Programmer (Penang)",
+        "description": "",
+        "company": "Serial Microelectronics Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Penang",
+        "salary_min": 3378,
+        "salary_max": 5955
+    },
+    {
+        "title": "Executive \u2013 Internal Audit",
+        "description": "",
+        "company": "Genting Plantations Berhad",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Sabah",
+        "salary_min": 2507,
+        "salary_max": 5912
+    },
+    {
+        "title": "Accounts Executive",
+        "description": "",
+        "company": "QUBE APPS SOLUTIONS SDN. BHD.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Kepong",
+        "salary_min": 2827,
+        "salary_max": 6638
+    },
+    {
+        "title": "Warehouse Admin Assistant",
+        "description": "",
+        "company": "Elabram Systems Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3024,
+        "salary_max": 4509
+    },
+    {
+        "title": "Admin Executive",
+        "description": "",
+        "company": "Sepakat Risk Management Sdn. Bhd.",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Petaling",
+        "salary_min": 3391,
+        "salary_max": 4622
+    },
+    {
+        "title": "Customer Service Executive",
+        "description": "",
+        "company": "MumsMe Sdn Bhd",
+        "required_skills": "",
+        "experience_required": 0,
+        "location": "Johor Bahru District",
+        "salary_min": 2854,
+        "salary_max": 5610
+    }
+]
