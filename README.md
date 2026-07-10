@@ -1,126 +1,93 @@
----
+# AI-based Job Recommendation System
 
-# AI Job Recommendation System
-
-An intelligent job recommendation system leveraging machine learning and MongoDB to match users with suitable job opportunities based on their skills, experience, and locations.
-
----
-
-## 🚀 Features
-
-- **Skill-Based Recommendations**: Matches user skills with job requirements.  
-- **Experience Filtering**: Recommends jobs aligning with the user's experience level.  
-- **Automated Notifications**: Stores job recommendations as notifications in the database.  
-- **MongoDB Integration**: Utilizes MongoDB for seamless data storage and retrieval.  
+## Online Source Code Repository
+The latest source code for this project is available on GitHub (link valid for >1 year):
+**GitHub Repository Link:** [https://github.com/tehkaichun9595-create/ai-job-recommendation-system](https://github.com/tehkaichun9595-create/ai-job-recommendation-system)
 
 ---
 
-## 🛠️ Tech Stack
+## Tools and Prerequisites
 
-- **Python**  
-- **MongoDB**  
-- **scikit-learn** (Naive Bayes, TF-IDF Vectorizer, Label Encoding)  
-- **pymongo**  
+To execute the source code, you will need the following tools and libraries installed on your machine.
+
+### Required Software Tools:
+1. **Python (Version 3.9 - 3.11)**
+   - Download Link: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. **MongoDB Community Server (Version 6.0+)**
+   - Download Link: [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
+   - Ensure MongoDB is running on `mongodb://localhost:27017/`
+3. **Ollama (For running Local Large Language Models)**
+   - Download Link: [https://ollama.com/download](https://ollama.com/download)
+   - Required Model: `qwen3:8b` (Run `ollama pull qwen3:8b` in terminal after installation)
+4. **Git**
+   - Download Link: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+### Required Python Libraries:
+All required libraries are listed in the `requirements.txt` file. Key libraries include:
+- `Flask` (Web framework)
+- `pymongo` (MongoDB driver)
+- `sentence-transformers` (For skill embeddings and semantic matching)
+- `PyMuPDF (fitz)` (For resume PDF parsing)
+- `pytesseract` (For OCR fallback)
 
 ---
 
-## 📂 Installation
+## Execution Instructions
 
-1. **Clone the repository**:
+Follow these steps to run the system on your local machine:
 
+### 1. Download the Source Code
+Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/your-username/ai-job-recommendation.git
-cd ai-job-recommendation
+git clone https://github.com/tehkaichun9595-create/ai-job-recommendation-system.git
+cd ai-job-recommendation-system
 ```
 
-2. **Create a virtual environment and activate it**:
-
+### 2. Set Up Virtual Environment
+Create and activate an isolated Python environment to install dependencies:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use venv\\Scripts\\activate
+# For macOS/Linux
+python3 -m venv venv_stable
+source venv_stable/bin/activate
+
+# For Windows
+python -m venv venv_stable
+venv_stable\Scripts\activate
 ```
 
-3. **Install dependencies**:
-
+### 3. Install Dependencies
+Install all required Python libraries via pip:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Configure MongoDB**:  
-   Add your MongoDB URI in the `config.py` file:
-
+### 4. Configuration
+Create a `config.py` file in the root directory (you can copy from `config.example.py` if available) and add your API keys:
 ```python
-MONGO_URI = "mongodb://localhost:27017/" #replace with your connection string 
+# config.py
+MONGO_URI = "mongodb://localhost:27017/"
+JOOBLE_API_KEY = "your_jooble_api_key_here"
 ```
 
----
-
-## ⚙️ Usage
-
-1. **Run the script**:
-
+### 5. Start the Application
+Run the Flask server:
 ```bash
-python AIjobrecommendation.py
+python app.py
 ```
-
-2. The system will:  
-  - Fetch user profiles and job listings from MongoDB (when configured).  
-  - Recommend suitable jobs based on skills and experience.  
-  - Store recommendations as notifications (in MongoDB when configured).  
-  - Display recommendations in the console.  
-
-Note: If you do not provide a `config.py` with `MONGO_URI`, the script will fall back to using the local `profiles.json` and `jobs.json` files and will write recommendations to `notifications.json` in the project root. See `config.example.py` for an example.
+The system will now be running at **http://127.0.0.1:5000**
 
 ---
 
-## 📄 Sample match making data Format
+## Dataset Instructions
 
-```jobs.json
-{
-  "title": "Software Engineer",
-  "description": "Develop machine learning models and optimize AI solutions.",
-  "company": "TechCorp",
-  "required_skills": "Python ML",
-  "experience_required": 2,
-  "location": "Chennai"
-}
-```
+This project utilizes both external APIs and datasets for training/benchmarking.
 
-```userprofiles.json
-{
-  "name": "Moansri",
-  "email": "monasri090@gmail.com",
-  "skills": "Python ML Tensorflow",
-  "experience": 2,
-  "bio": "AI enthusiast with experience in ML models.",
-  "location": "Chennai"
-}
-```
+### Public Dataset (Resumes)
+We use a public Resume dataset for testing the parser and evaluating the LLM skill extraction.
+- **Dataset Source:** Kaggle Resume Dataset (or equivalent public dataset).
+- **Included in Code:** A sampled version of this dataset is already provided directly in the repository at `datasets/resume_dataset_1200.csv` for immediate execution without manual downloads.
+- **How to use:** The system scripts (`import_csv_dataset.py`) automatically read from this local CSV file to populate test profiles.
 
----
-
-## 📚 Contributing
-
-1. Fork the repository.  
-2. Create your feature branch (`git checkout -b feature/recommendation-filter`).  
-3. Commit your changes (`git commit -m 'Add experience level filter to job recommendations'`).  
-4. Push to the branch (`git push origin feature/recommendation-filter`).  
-5. Open a Pull Request.
-
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
-
----
-
-## 🤝 Acknowledgements
-
-- Thanks to the open-source community for their valuable libraries and tools.
-
----
-
-> Feel free to contribute, open issues, or provide feedback to make this project even better! 🚀
-
----
+### Live Data (Jobs)
+- **Job Listings:** The system does not rely on a static job dataset. Instead, it pulls live job postings dynamically using the **Jooble API**. 
+- **Database population:** To fetch the latest jobs into your local MongoDB, you can use the system's interface or run the scheduled background fetching tool.
